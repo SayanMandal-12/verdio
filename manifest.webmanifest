@@ -1,0 +1,12 @@
+{
+  "name": "verdio Carbon Footprint Tracker",
+  "short_name": "verdio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8E1D2",
+  "theme_color": "#102A43",
+  "description": "A personal carbon footprint tracker.",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
